@@ -6,12 +6,6 @@ This project applies **machine learning techniques** to predict **seismically in
 1. **Seismically Induced Landslides** - Using **logistic regression, multilinear regression, and LASSO feature selection** to predict landslide displacement after an earthquake.
 2. **Sea Level Change Analysis** - Utilizing **Gaussian processes and regression models** to analyze and forecast sea level rise based on tidal gauge data.
 
-## Authors
-- **TN**
-- **HL**
-- **SR**
-- **MS**
-
 ---
 
 ## 📌 Part A: Seismically Induced Landslides
@@ -61,9 +55,8 @@ The dataset includes:
 - **Machine learning can forecast trends** but must account for **periodic fluctuations** for better accuracy.
 
 ---
-
-## 🏆 Conclusions
-- **Machine learning is a powerful tool** for civil engineering risk assessment.
-- **Landslide models must consider nonlinear relationships** to improve accuracy.
-- **Sea level predictions benefit from Gaussian processes**, but improvements are needed in capturing tidal fluctuations.
-- **Data-driven engineering solutions** can help mitigate seismic and climate-related risks.
+## Authors
+- **TN**
+- **HL**
+- **SR**
+- **MS**
