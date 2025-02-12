@@ -1,4 +1,4 @@
-# Data Analytics for Civil Engineering: Machine Learning for Seismically Induced Landslides and Sea Level Rise
+# Natural Disaster Mitigation
 
 ## Overview
 This project applies **machine learning techniques** to predict **seismically induced landslides** and **sea level rise**, leveraging **data analytics** to assess risks and model future scenarios. It is divided into two key sections:
